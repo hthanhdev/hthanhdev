@@ -1,5 +1,7 @@
-# Hi there 👋 , I'm hthanh12 
-# Have you a nice day
+# Hi there 👋
+- I'm hthanh12.
+- 💬 Ask me about ...
+
 
 
 <!--
