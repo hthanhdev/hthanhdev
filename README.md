@@ -1,6 +1,6 @@
 # Hi there 👋
 - I'm hthanh12.
-- 💬 Ask me about ...
+<!-- - 💬 Ask me about ...
 
 
 
